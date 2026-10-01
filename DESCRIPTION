@@ -1,0 +1,35 @@
+# 🎯 C++ Quiz Game
+
+A console-based quiz game built using C++.
+
+## ✨ Features
+
+* Multiple quiz categories
+* Multiple-choice questions
+* Score calculation
+* Player name input
+* High-score tracking
+* Different difficulty levels
+* Interactive console interface
+
+## 🛠️ Concepts Used
+
+* C++
+* Functions
+* Arrays
+* Strings
+* `vector`
+* `pair`
+* `set`
+* Loops and conditionals
+* STL
+* Sorting
+* Basic object-oriented programming
+
+## 📌 Project Goalone the repository:
+
+This project was created to practice C++ programming and STL concepts while building something interactive rather than only solving individual programming exercises.
+
+## 👨‍💻 Author
+
+Tirth Patel
