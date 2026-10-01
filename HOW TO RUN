@@ -1,0 +1,62 @@
+# 🎯 QUIZ MASTER PROJECT
+
+A C++ console-based quiz game featuring multiple quiz categories, scoring, and a high-score system.
+
+## 🚀 How to Run
+
+### 1. Download the Project
+
+Clone this repository:
+
+git clone https://github.com/tirth69dev/QUIZ-MASTER-PROJECT.git
+
+
+### 2. Open the Project
+
+Open the downloaded `QUIZ-MASTER-PROJECT` folder in **VS Code** or any C++ IDE.
+
+### 3. Compile the Program
+
+Make sure you have a C++ compiler such as **g++** installed.
+
+Run:
+
+g++ main.cpp -o quiz
+
+
+### 4. Run the Quiz
+
+On Windows:
+
+quiz.exe
+
+On Linux/macOS:
+
+./quiz
+
+
+## 🎮 Features
+
+* Multiple quiz categories
+* Multiple-choice questions
+* Score tracking
+* High-score system
+* Player names
+* Interactive console interface
+
+## 🛠️ Technologies Used
+
+* C++
+* STL
+* Vectors
+* Pairs
+* Sets
+* Functions
+* Loops
+* Conditional statements
+
+## 👨‍💻 Author
+
+**Tirth Patel**
+
+GitHub: https://github.com/tirth69dev
